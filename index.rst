@@ -4,10 +4,13 @@ Documentación proyecto Guano, Bienvenido
 Índice de contenidos
 --------------------
 
-* :doc:`desarrollo/requisitos/descripcion.rst`
-* :doc:`quick_tour/the_view`
-* :doc:`quick_tour/the_controller`
-* :doc:`quick_tour/the_architecture`
+* `Pautas <pautas.rst>`_ (pautas.rst)
+* `Requisitos <requisitos/descripcion.rst>`_ (requisitos/descripcion.rst)
+* `Objetivos <desarrollo/objetivos.rst>`_ (desarrollo/objetivos.rst)
+* `Reglas del negocio <desarrollo/reglas.rst>`_ (desarrollo/reglas.rst)
+* `Requerimientos del sistema <desarrollo/requerimientos.rst>`_ (desarrollo/requerimientos.rst)
+* `Casos de uso <desarrollo/casos_de_uso.rst>`_ (desarrollo/casos_de_uso.rst)
+* `Base de datos <desarrollo/db/clases_persistentes.rst>`_ (desarrollo/db/clases_persistentes.rst)
 
 Pautas
 ------
